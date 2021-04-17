@@ -1,4 +1,4 @@
-# hoge edit later
+# fuga
 
 if __name__ == "__main__":
     print("kuma")
